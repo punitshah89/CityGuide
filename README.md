@@ -5,7 +5,7 @@ IOS Assignment
 Description
 ================
 <p>
-CityGuid IOS app allows you to add cities with its name, image and description. You can also remove cities from list and add new cities to list.
+CityGuide IOS app allows you to add cities with its name, image and description. You can also remove cities from list and add new cities to list.
 </p>
 
 Screenshot
